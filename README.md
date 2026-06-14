@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Navaneeth 👋
 
+### 🚀 About Me
+- 🎓 I am a 17-year-old student passionate about computer science and technology.
+- 💻 Currently diving deep into Python, C++, HTML, CSS, JS.
+- 🛠️ I’m working on building my personal portfolio and small projects.
+- 🌱 I’m currently learning Python and C++.
+
+### 📫 How to Reach Me
+- 🌐 Portfolio: 
+- 💬 Ask me about: Anything related to basic programming or small algorithms!
 <!--
 **nav-krish-r/nav-krish-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
